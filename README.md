@@ -7,6 +7,8 @@ As movie streaming platforms being prosperous for the past decade, the recommend
 
 As passionate data scientists who love watching movies in our leisure time, we decided to explore how these streaming platforms recommend movies based on our movie preferences. We created four movie recommendation systems, including demographic filtering, content-based filtering, collaborative filtering, and hybrid engine. Each of which provides movie recommendations based on user preferences or movie features. 
 
+The visualization part of the project is done using Tableau dashboard. The link is as below: https://public.tableau.com/app/profile/yu.chun.peng/viz/Movie_16467255780440/Dashboard1
+
 The original data source is from Kaggle. Link as below:  
 https://www.kaggle.com/tmdb/tmdb-movie-metadata  
 https://www.kaggle.com/rounakbanik/the-movies-dataset
